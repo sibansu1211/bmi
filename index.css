@@ -1,0 +1,12 @@
+.age{
+    display: flex;
+}
+.gender{
+    display: flex;
+}
+.bmi{
+    margin-left: 300px;
+    margin-top: 180px;
+    width: 200px;
+    height: 200px;
+}
